@@ -7,3 +7,5 @@ Concurrency Support: Go has built-in support for concurrent programming through 
 Static Typing: Go is statically typed, meaning variables must be declared with their types at compile time. This helps catch errors early in the development process and improves performance.
 
 Garbage Collection: Go includes automatic memory management through garbage collection, which helps simplify memory management for developers.
+
+Static Typing: Go is statically typed, meaning variables must be declared with their types at compile time. This helps catch errors early in the development process and improves performance.
