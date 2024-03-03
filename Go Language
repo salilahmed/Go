@@ -20,3 +20,5 @@ Variable names can contain letters, digits, and underscores.
 Variable names cannot start with a digit.
 Variable names are case-sensitive.
 Go keywords cannot be used as variable names.
+
+Integers: Go provides several integer types, differing in size and signedness. Commonly used integer types include int, int8, int16, int32, and int64 for signed integers, and their unsigned counterparts uint, uint8 (byte), uint16, uint32, and uint64 for unsigned integers.
