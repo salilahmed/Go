@@ -1,8 +1,8 @@
 Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It was created by Robert Griesemer, Rob Pike, and Ken Thompson and was first released in 2009. Go was developed with a focus on simplicity, efficiency, and concurrency support.
 
-Here are some key features of the Go programming language:
 
-Concurrency Support: Go has built-in support for concurrent programming through goroutines and channels. Goroutines are lightweight threads of execution that allow concurrent execution of functions, while channels facilitate communication and synchronization between goroutines.
+CoHere are some key features of the Go programming language:
+ncurrency Support: Go has built-in support for concurrent programming through goroutines and channels. Goroutines are lightweight threads of execution that allow concurrent execution of functions, while channels facilitate communication and synchronization between goroutines.
 
 Static Typing: Go is statically typed, meaning variables must be declared with their types at compile time. This helps catch errors early in the development process and improves performance.
 
@@ -22,3 +22,4 @@ Variable names are case-sensitive.
 Go keywords cannot be used as variable names.
 
 Integers: Go provides several integer types, differing in size and signedness. Commonly used integer types include int, int8, int16, int32, and int64 for signed integers, and their unsigned counterparts uint, uint8 (byte), uint16, uint32, and uint64 for unsigned integers.
+ncurrency Support: Go has built-in support for concurrent programming through goroutines and channels. Goroutines are lightweight threads of execution that allow concurrent execution of functions, while channels facilitate communication and synchronization between goroutines.
